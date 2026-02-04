@@ -1,5 +1,8 @@
 Source code and data files for the paper
 
-Login, N. (TBA). Wrong answers only: Distractor generation for Russian reading comprehension questions using learner corpus data. <i> Journal of Language and Education </i> (In print)
+Login, N. (2024). Wrong answers only: Distractor generation for Russian reading comprehension questions using learner corpus data. <i> Journal of Language and Education </i>
 
-NOTICE: The metrics reported in working notebooks were not always calculated appropriately: Sentence-level BLEU (instead of corpus-level BLEU) and ROUGE implementation that does not support Russian were used during initial experiments. Task-appropeiate metric values are calculated and reported in <b>output_analysis/RecalculateMetrics.ipynb</b> notebook.
+and Section 3.1 of the Candidate of Sciences thesis "Automation of incorrect option (distractor) creation for language testing item banks"
+
+UPDATE: Metrics based on unified output format (as reported in the Candidate of Sciences thesis), including scores of large Chat-based models, are calculated in the notebook <b>output_analysis/calculate_scores_unified_format
+.ipynb</b>
