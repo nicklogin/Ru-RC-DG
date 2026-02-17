@@ -1,6 +1,6 @@
 Source code and data files for the paper
 
-Login, N. (2024). Wrong answers only: Distractor generation for Russian reading comprehension questions using learner corpus data. <i> Journal of Language and Education </i>
+Login, N. (2024). Wrong answers only: Distractor generation for Russian reading comprehension questions using learner corpus data. <i>Journal of Language and Education</i>, 10(4), 56-70
 
 and Section 3.1 of the Candidate of Sciences thesis "Automation of incorrect option (distractor) creation for language testing item banks"
 
